@@ -18,7 +18,7 @@ fluxcal:
 linelists:
 lbtextinct.dat
 
-The procedure is documented here ().
+The procedure is documented here (https://drive.google.com/file/d/1jNdqD9EuW2a2FCasTyvo14xh1KZKwqLd/view?usp=sharing).
 
 
 The python scripts plot the output:
